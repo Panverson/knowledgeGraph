@@ -1,0 +1,8 @@
+.ipynb_checkpoints/*
+./data/*
+./diakg/*
+./text/*
+*.pdf
+*.zip
+*.pkl
+sample.json
